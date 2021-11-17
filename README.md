@@ -1,8 +1,8 @@
-### Hi there 👋 I’m mobile app developer using Android.
-I currently prefer develope with cross-platform using Flutter.
-Also, I interesting in develope metaverse environment using Unreal-Engine.
-I am truly hard gamer also big fans with League Of Legends.
-I hope to be a futuristic developer .
+### Hi there 👋 I’m mobile app developer using Android.🐸
+- I currently prefer develope with cross-platform using Flutter.✈️
+- Also, I interesting in develope metaverse environment using Unreal-Engine.🚀
+- I am truly hard gamer 🎮 also big fans of League Of Legends.😈
+- I hope to develop something that can contribute to the world.☀️
 <!--
 **kumangho/kumangho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
