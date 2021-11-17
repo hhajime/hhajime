@@ -25,11 +25,18 @@ Here are some ideas to get you started:
 ###💪 Skills
 
 ## Platforms and Languages
-<img alt="unrealengine" src ="https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img alt="flutter" src ="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 <img alt="android" src ="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="adobeillustrator" src ="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img alt="flutter" src ="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="unreal" src ="https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img alt="kotlin" src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="dart" src ="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 ## Tools
+<img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img alt="firebase" src ="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="adobeillustrator" src ="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
