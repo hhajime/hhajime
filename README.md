@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m mobile app developer using Android.🐸
-- I currently prefer develope with cross-platform using Flutter.✈️
-- Also, I interesting in develope metaverse environment using Unreal-Engine.🚀
-- I love designing 🎨 also big fans of League Of Legends.🔥
+- I currently prefer develop with cross-platform using Flutter.✈️
+- Also, I interesting in develop metaverse environment using Unreal-Engine.🚀
+- I love design anything, 🎨 also big fans of League Of Legends.🔥
 - I hope to develop something that can contribute to the world.☀️
 <!--
 **kumangho/kumangho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,25 +18,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumangho&show_icons=true&theme=radical)
-<img src="https://img.shields.io/badge/0B1677?style=flat-square&logo=simpleicons#02569B&logoColor=white"/>
-#0E1128
 <!--<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>-->
 
-###💪 Skills
 
-## Platforms and Languages
-<img alt="android" src ="https://img.shields.io/badge/android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img alt="flutter" src ="https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="unreal" src ="https://img.shields.io/badge/unrealengine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<img alt="kotlin" src ="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img alt="dart" src ="https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img alt="cplusplus" src ="https://img.shields.io/badge/cplusplus-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
+### 💪 Skills
 
-## Tools
-<img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img alt="firebase" src ="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="figma" src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="adobeillustrator" src ="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+- #### 🔧 Platforms and Languages
+<p float="left">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SqLite-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
+  </p>
+<p float="left">
+<img src="https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  </p>
+<p float="left">
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=Unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  </p>
+
+- #### 🔨 Tools
+<p float="left">
+<img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  </p>
+<p float="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+  </p>
