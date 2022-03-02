@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <p float="left">
 <img src="https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=Git&logoColor=black"/>
 <img src="https://img.shields.io/badge/Slack-F24E1E?style=flat-square&logo=slack&logoColor=white"/>
   </p>
 <p float="left">
