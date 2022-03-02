@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <p float="left">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-FF9A00?style=flat-square&logo=slack&logoColor=white"/>
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumangho&show_icons=true&theme=radical)
