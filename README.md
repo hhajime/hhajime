@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumangho&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumangho&theme=tokyonight)
-<a href="https://opgc.me/#/users/kumangho" target="_blank"><img src="https://api.opgc.me/githubs/users/kumangho/tag/?theme=basic" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumangho&show_icons=true&theme=radical)  
+<a href="https://opgc.me/#/users/kumangho" target="_blank"><img src="https://api.opgc.me/githubs/users/kumangho/tag/?theme=basic" /></a>  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumangho&theme=tokyonight)  --!>
