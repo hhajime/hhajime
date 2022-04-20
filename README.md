@@ -56,3 +56,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumangho&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumangho&theme=tokyonight)
+<a href="https://opgc.me/#/users/kumangho" target="_blank"><img src="https://api.opgc.me/githubs/users/kumangho/tag/?theme=basic" /></a>
