@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hive-FF9A00?style=flat-square&logo=hive&logoColor=white"/>
 <img src="https://img.shields.io/badge/SqLite-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
   </p>
 <p float="left">
