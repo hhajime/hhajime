@@ -3,6 +3,6 @@ Interaction by Software lover, Self whipping minded driver.
 
 ```
 - prefer using Flutter.
-- working with VusJs, Spring.
+- worked with VusJs, Spring.
 - learning Swift, React, NextJs.
 ```
