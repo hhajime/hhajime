@@ -1,8 +1,8 @@
-Problem Solver Intrested in saas. <br />
+Problem Solver Intrested in SaaS. <br />
 Interaction by Software lover, Self whipping minded driver.
 
 ```
-- prefer using Flutter.
+- used Flutter.
 - worked with VusJs, Spring.
-- learning Swift, React, NextJs.
+- learning Swift.
 ```
