@@ -3,6 +3,6 @@ Interaction by Software lover, Self whipping minded driver.
 
 ```
 - used Flutter.
-- worked with VusJs, Spring.
+- worked with VueJs, Spring.
 - learning Swift.
 ```
